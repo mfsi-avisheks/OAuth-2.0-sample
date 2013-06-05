@@ -1,4 +1,7 @@
 <?php
+/*
+This is the first step for any OAuth authentication technique, its not a REST API call rather just a redirection...
+*/
 require_once('config/config.php');
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 	//asking for authorization
