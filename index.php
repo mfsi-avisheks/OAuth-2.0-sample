@@ -1,4 +1,7 @@
 <?php
+/*
+this is the first step for any OAuth Authentication technique
+*/
 require_once('config/config.php');
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 	//asking for authorization
