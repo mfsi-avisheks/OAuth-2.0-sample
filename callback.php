@@ -1,5 +1,5 @@
 <?php
-require_once('config.php');
+require_once('config/config.php');
 if(!isset($_GET['access_token'])&&isset($_GET['code'])){
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
 	//step 2
